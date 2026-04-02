@@ -1,5 +1,9 @@
 # Datadog changelog
 
+## 3.199.2
+
+* Update `fips.image.tag` to `1.1.22` fixing CVEs and updating packages.
+
 ## 3.199.1
 
 * [PROF-14075] add profiling preset to upstream otel Helm config follow up ([#2526](https://github.com/DataDog/helm-charts/pull/2526)).
